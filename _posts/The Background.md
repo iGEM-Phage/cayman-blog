@@ -37,7 +37,7 @@ Experiment
 
 >3. Treat the S. aureus with the nanoparticles, and use plasmid lexo-gfp to test the super-phage’ s antibiotic-enhancing effect.
 
-（1）The engineered phage over-expresses the lexA3 protein and DspB enzyme during its replication. Bacterial cells are broken open and destroyed after immediate replication of the virion. As soon as the cell is destroyed, the phage progeny find new hosts to infect. As a result, the biofilm was removed by DspB enzyme and the SOS systems of host cells were repressed by the lexA3 protein.
+>（1）The engineered phage over-expresses the lexA3 protein and DspB enzyme during its replication. Bacterial cells are broken open and destroyed after immediate replication of the virion. As soon as the cell is destroyed, the phage progeny find new hosts to infect. As a result, the biofilm was removed by DspB enzyme and the SOS systems of host cells were repressed by the lexA3 protein.
 
-（2）With the help of a scanning electron microscope (SEM), images of the cells were taken.
+>（2）With the help of a scanning electron microscope (SEM), images of the cells were taken.
 
