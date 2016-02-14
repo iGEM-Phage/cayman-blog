@@ -31,12 +31,13 @@ The EPS provides mechanical support and acts as protective environment. A beta-N
 
 Experiment
 
->1．Plasmid construction and phage engineering：To repress the SOS DNA Repair System, we first constructed the plasmid expressing lexA3 and DspB gene. The recombinant plasmid was injected into the phage φMR11 in trial group, while unmodified plasmid was injected into the same phage in control group.
+>1. Plasmid construction and phage engineering：To repress the SOS DNA Repair System, we first constructed the plasmid expressing lexA3 and DspB gene. The recombinant plasmid was injected into the phage φMR11 in trial group, while unmodified plasmid was injected into the same phage in control group.
 
 >2.	Nanoparticles were used in the delivery in our super-phage, to improve the circulation time mainly.
 
 >3. Treat the S. aureus with the nanoparticles, and use plasmid lexo-gfp to test the super-phage’ s antibiotic-enhancing effect.
 
 （1）The engineered phage over-expresses the lexA3 protein and DspB enzyme during its replication. Bacterial cells are broken open and destroyed after immediate replication of the virion. As soon as the cell is destroyed, the phage progeny find new hosts to infect. As a result, the biofilm was removed by DspB enzyme and the SOS systems of host cells were repressed by the lexA3 protein.
+
 （2）With the help of a scanning electron microscope (SEM), images of the cells were taken.
 
